@@ -12,3 +12,8 @@ Binary files for the MPC-BE installer.
 https://github.com/Aleksoid1978/VideoRenderer/releases/tag/0.9.13
 * MpcVideoRenderer.ax
 * MpcVideoRenderer64.ax
+
+## MPC Script Source 0.2.11.215
+https://github.com/v0lt/ScriptSourceFilter/releases/tag/0.2.11
+* MpcScriptSource.ax
+* MpcScriptSource64.ax
