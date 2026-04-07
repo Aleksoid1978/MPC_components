@@ -17,3 +17,8 @@ https://github.com/Aleksoid1978/VideoRenderer/releases/tag/0.10.1
 https://github.com/v0lt/ScriptSourceFilter/releases/tag/0.2.17
 * MpcScriptSource.ax
 * MpcScriptSource64.ax
+
+## MPC Image Source 0.3.4.193
+https://github.com/v0lt/ImageSourceFilter/releases/tag/0.3.4
+* MpcImageSource.ax
+* MpcImageSource64.ax
