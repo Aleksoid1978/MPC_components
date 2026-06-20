@@ -8,8 +8,8 @@ Binary files for the MPC-BE installer.
 * libmfxsw32.dll
 * libmfxsw64.dll
 
-## MPC Video Renderer 0.10.3.2545
-https://github.com/Aleksoid1978/VideoRenderer/releases/tag/0.10.3
+## MPC Video Renderer 0.10.5.2552
+https://github.com/Aleksoid1978/VideoRenderer/releases/tag/0.10.5
 * MpcVideoRenderer.ax
 * MpcVideoRenderer64.ax
 
